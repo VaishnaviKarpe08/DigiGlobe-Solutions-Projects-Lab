@@ -57,7 +57,7 @@ Please add your details to the table below after your pull request has been merg
 
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
 | --------------- | ------------- | --------------|------------|-----------------|
-| Your Full Name  | Your Category | [Link](URL)   | DD-MM-YYYY | HTML, CSS, JS   |
+| Vaishnavi Karpe  | Hero Section | [Link](URL)   | 21-8-24 | HTML, CSS, JS   |
 
 ## Example Entry
 | Full Name       | Category      | Deployed Link | Date       | Tech Stack Used |
